@@ -1,0 +1,38 @@
+##1## Dunkle Kammer
+Du stehst in einer finsteren Kammer. Vor dir ist eine verschlossene Tür, durch deren Schlüsselloch ein leichter Lichtschein nach unten dringt. Unter deinen nackten Füßen spürst du eine stachelige Fußmatte. Möchtest du [2]die Fußmatte anheben[/2], [3]gegen die Tür schlagen[/3] oder lieber [4]abwarten[/4]?
+
+##2## Dunkle Kammer
+Du bückst dich nach unten, hebst die Fußmatte an und tastest auf dem Boden darunter. Tatsächlich, du fühlst einen kleinen metallenen Gegenstand. Es ist ein Schlüssel!
+Möchtest du versuchen, [5]die Tür aufzuschließen[/5], [3]gegen die Tür schlagen[/3] oder noch ein wenig [4]abwarten[/4]?
+
+##3## Dunkle Kammer
+Die schlägst gegen die Tür, aber diese zeigt sich davon gänzlich unbeeindruckt. Einen Moment hältst du inne und legst dein Ohr an das massive Holz. Nichts ist zu hören. Entweder ist die andere Seite gänzlich unbewacht oder deine Wache interessiert sich nicht sonderlich für dein Verhalten.
+Möchtest du [2]die Fußmatte anheben, auf der du stehst[/2] oder [4]eine Weile abwarten[/4]?
+
+##4## Dunkle Kammer
+Du wartest, aber nichts geschieht, außer dass dir die vollkommne Stille bewusst wird, in der du dich befindest.
+Möchtest du [2]die Fußmatte unter deinen Füßen anheben[/2], [3]gegen die Tür schlagen[/3] oder [4]noch etwas länger warten[/4]?
+
+##5## Dunkle Kammer
+Du steckst den Schlüssel ins Schlüsselloch und als der Lichtschein erstirbt wird es für einen Moment stockfinster in der Kammer. Als das Schloss klickt und die die Tür aufziehst bildet sich ein Lichtspalt an der Seite. Kurz siehst du dich um und erkennst, dass dies keine Kammer war sondern ein gewaltiges Kellergewölbe, dass sich hinter dir auftut.
+Auf der anderen Seite der Tür erstreckt sich ein langer Gang, der nach etwa zehn Metern nach rechts abknickt. Die Wände sind mit altem Holz getäfelt und zwei einfache elektrische Lichter erstrahlen von der Decke.
+Du kannst nun [6]die Kammer in den Gang hinein verlassen[/6] oder dich im neu gewonnenen Dämmerlicht [7]in dem Gewölbe umsehen[/7].
+
+##6## Gang im Dämmerlicht
+[V1 = 10]
+Der Gang erstreckt sich über etwa [V1] Meter bevor er einen Knick nach rechts macht. Du bemerkst, dass die Holzvertäfelung an einigen Stellen dunkel angelaufen ist, manchmal sogar feucht schimmert. Es scheint, als würde von der Decke aus Feuchtigkeit in den Gang eindringen.
+Möchtest du [8]um die Ecke biegen[/8] oder [9]in das Gewölbe zurückkehren[/9]?
+
+##7## Dunkles Kellergewölbe
+Du tastest dich durch das Gewölbe, als du plötzlich in eine Pfütze trittst. Nur für den Bruchteil einer Sekunde spürst du den elektrischen Strom, der durch deinen Körper schießt, dann wird dir schlagartig schwarz vor Augen.
+[E-1]
+
+##8## Gang im Dämmerlicht
+
+Du biegst um die Ecke und tatsächlich: der Gang führt direkt ins Freie. Du siehst den blauen Himmel über dir, vor dir erstreckt sich ein grünes Feld voller prächtiger Obstbäume.
+Du bist gerettet!
+[E+]
+
+##9## Dunkles Kellergewölbe
+Du stehst wieder im Gewölbe, in dem du erwacht bist. Licht dringt vom Gang her ein und erhellt den Raum leicht.
+Du kannst nun [6]die Kammer in den Gang hinein verlassen[/6] oder dich im neu gewonnenen Dämmerlicht [7]in dem Gewölbe umsehen[/7].
